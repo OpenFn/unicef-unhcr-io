@@ -37,3 +37,6 @@ To clone the project configuration and setup a new OpenFn project space, contact
 Once the new Github repository and OpenFn project are created for your specific implementation, you can proceed with implementing the data element mapping specification changes required (identified in step #1). 
 
 Follow the project [Implementation Checklist](TO_UPDATE**) for additional tasks and milestones to consider as you get ready to test the job changes and prepare for go-live. 
+
+## Questions? 
+Contact support@openfn.org for questions regarding this solution and its documentation. 
